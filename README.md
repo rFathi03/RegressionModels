@@ -10,7 +10,7 @@ This project explores two fundamental regression models:
 
 **1. Linear Regression:**
 
-This section focuses on understanding and implementing linear regression. Here, you'll:
+This section focuses on understanding and implementing linear regression, and it is required to:
 
   * Define a univariate linear equation (e.g., Y = WX + C)
   * Select five distinct X values (X1, X2, X3, X4, X5) and calculate their corresponding Y values.
@@ -21,7 +21,7 @@ This section focuses on understanding and implementing linear regression. Here, 
 
 **2. Logistic Regression (Classification):**
 
-This section delves into logistic regression for classification tasks. Here, you'll:
+This section delves into logistic regression for classification tasks, and it is required to:
 
   * Utilize the Iris dataset, where samples from C2 and C3 will be combined to form a new class, C2.
   * Split the C1 class into two sets: 40 samples for training and 10 samples for testing.
